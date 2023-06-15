@@ -1,0 +1,14 @@
+C:\Users\kzbnk\source\repos\KampIntro\odev1\bin\Debug\netcoreapp3.1\odev1.exe
+C:\Users\kzbnk\source\repos\KampIntro\odev1\bin\Debug\netcoreapp3.1\odev1.deps.json
+C:\Users\kzbnk\source\repos\KampIntro\odev1\bin\Debug\netcoreapp3.1\odev1.runtimeconfig.json
+C:\Users\kzbnk\source\repos\KampIntro\odev1\bin\Debug\netcoreapp3.1\odev1.runtimeconfig.dev.json
+C:\Users\kzbnk\source\repos\KampIntro\odev1\bin\Debug\netcoreapp3.1\odev1.dll
+C:\Users\kzbnk\source\repos\KampIntro\odev1\bin\Debug\netcoreapp3.1\odev1.pdb
+C:\Users\kzbnk\source\repos\KampIntro\odev1\obj\Debug\netcoreapp3.1\odev1.csproj.AssemblyReference.cache
+C:\Users\kzbnk\source\repos\KampIntro\odev1\obj\Debug\netcoreapp3.1\odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzbnk\source\repos\KampIntro\odev1\obj\Debug\netcoreapp3.1\odev1.AssemblyInfoInputs.cache
+C:\Users\kzbnk\source\repos\KampIntro\odev1\obj\Debug\netcoreapp3.1\odev1.AssemblyInfo.cs
+C:\Users\kzbnk\source\repos\KampIntro\odev1\obj\Debug\netcoreapp3.1\odev1.csproj.CoreCompileInputs.cache
+C:\Users\kzbnk\source\repos\KampIntro\odev1\obj\Debug\netcoreapp3.1\odev1.dll
+C:\Users\kzbnk\source\repos\KampIntro\odev1\obj\Debug\netcoreapp3.1\odev1.pdb
+C:\Users\kzbnk\source\repos\KampIntro\odev1\obj\Debug\netcoreapp3.1\odev1.genruntimeconfig.cache
